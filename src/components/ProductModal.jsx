@@ -349,9 +349,9 @@ function ProductModal({
                                             onChange={(e) => handleModalInputChange(e)}
                                         >
                                             <option value="">請選擇</option>
-                                            <option value="lg">大杯</option>
-                                            <option value="md">中杯</option>
-                                            <option value="sm">小杯</option>
+                                            <option value="lg">大</option>
+                                            <option value="md">中</option>
+                                            <option value="sm">小</option>
                                         </select>
                                     </div>
                                 </div>
